@@ -11,7 +11,7 @@ public class CseController {
 	}
 	@GetMapping("/cse")
 	public String disk2() {
-		return "Welcome to Aditya University";
+		return "Welcome pipeline";
 	}
 
 }
